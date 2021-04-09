@@ -1,0 +1,29 @@
+%TF.GenerationSoftware,KiCad,Pcbnew,(5.1.9-0-10_14)*%
+%TF.CreationDate,2021-04-08T19:41:26-04:00*%
+%TF.ProjectId,RoboCloud,526f626f-436c-46f7-9564-2e6b69636164,rev?*%
+%TF.SameCoordinates,Original*%
+%TF.FileFunction,Legend,Bot*%
+%TF.FilePolarity,Positive*%
+%FSLAX46Y46*%
+G04 Gerber Fmt 4.6, Leading zero omitted, Abs format (unit mm)*
+G04 Created by KiCad (PCBNEW (5.1.9-0-10_14)) date 2021-04-08 19:41:26*
+%MOMM*%
+%LPD*%
+G01*
+G04 APERTURE LIST*
+%ADD10C,0.152400*%
+G04 APERTURE END LIST*
+D10*
+%TO.C,SW1*%
+X151803100Y-110295000D02*
+G75*
+G03*
+X151803100Y-110295000I-381000J0D01*
+G01*
+X151676100Y-102294000D02*
+G75*
+G03*
+X151676100Y-102294000I-381000J0D01*
+G01*
+%TD*%
+M02*
