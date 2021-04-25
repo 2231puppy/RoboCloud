@@ -6,7 +6,7 @@
 
 ## What's Project Stida?
 
-Stida was 2231puppy's first-ever robot. While no longer in use, the name lives on in Project Stida, 2231puppy's organization.
+Stida was 2231puppy's first robot. While no longer in use, the name lives on in Project Stida, 2231puppy's organization.
 
 ## Why would I want it?
 
